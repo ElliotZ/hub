@@ -66,7 +66,7 @@ Please add yourself to this list (link is optional) if you've contributed to thi
 - [Jeremie Bornais](https://github.com/jere-mie)
 - [Prakort Lean](https://github.com/prakort)
 - [Yuxi Wang](https://github.com/yuxi-w)
-
+- [Yile Zhu](https://github.com/ElliotZ)
 
 # Important Dates
 ------------
@@ -179,6 +179,8 @@ List of bird courses:
 - **COMP-2057 Intro to the Internet** - Simple HTML/CSS assignments.
 - **COMP-2097 Social Media and Mobile Technology for End Users** - A bit busy with assignments/projects but still overall very easy
 - **COMP-2707 Advanced Website Design** - Easy exams, covers HTML, CSS, a bit of Javascript but a lot of work with assignments/projects
+- **CMAF-1120 Intro to Media Design and Production** - Easy course and interesting if you are into filmmaking and films in general. You write a screenplay for the assignments. No midterm that I can recall and multiple choice finals.
+- **CMAF-1130 Intro to Media Design and Production II** - The follow-up to above course where you actually go make a real film. You can opt for an easy role like a camera assistant, gaffer or a boom-op. The midterm is multiple choice. The final should be an assignment.
 
 #### School Resources
 - [List of different degrees/specializations in Computer Science with their course requirements](https://web4.uwindsor.ca/units/registrar/calendars/undergraduate/cur.nsf/982f0e5f06b5c9a285256d6e006cff78/40a4d00a28a9d3e685257362006c8367!OpenDocument)
